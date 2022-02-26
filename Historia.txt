@@ -12,3 +12,5 @@ ultimo cambio a las 10:48
 estado staging 1108
 
 este no debe salir porque se va a borrar
+
+estos es desde git hub
